@@ -1,0 +1,57 @@
+Vandalur,Urappakkam,5.4
+Vandalur,Adhanur,6.5
+Vandalur,Perungalathur,3.0
+Perungalathur,Mudichur,3.2
+Perungalathur,Tambaram,3.4
+Tambaram,Sanatorium,4.9
+Tambaram,Chitlapakkam,5.5
+Sanatorium,Chrompet,4.5
+Chrompet,Pallavaram,2.2
+Chrompet,Nemilicherrry,2.0
+Pallavaram,Anakaputhur,7.0
+Pallavaram,Tirusulam,7.3
+Tirusulam,Meenambakkam,6.1
+Meenambakkam,Keelkattalai,5.7
+Meenambakkam,Pazhavanthangal,2.6
+Pazhavanthangal,St Thomas Mount,5.2
+Pazhavanthangal,Adampakkam,2.4
+Keelkattalai,Madipakkam,2.0
+Madipakkam,Kottivakkam,9.6
+Madipakkam,Thoraipakkam,9.6
+Kottivakkam,Thiruvanmiyur,2.0
+Thiruvanmiyur,Besant Nagar,2.8
+Besant Nagar,Adyar,1.1
+Guindy,Velachery,4.5
+Guindy,Saidapet,2.2
+Saidapet,Kotturpuram,5.2
+Mugalivakkam,Porur,3.2
+Mugalivakkam,Ramapuram,4.6
+Ramapuram,KK Nagar,6.3
+KK Nagar,Velachery,9.2
+Porur,Saligramam,6.0
+Porur,Mangadu,6.5
+Porur,Ramapuram,3.2
+Pammal,Porur,9.6
+Chrompet,Pammal,4.2
+Pammal,Anakaputhur,1.0
+Anakaputhur,Kundrathur,4.4
+Kundrathur,Ayyappanthangal,7.3
+Kundrathur,Nandampakkam,9.3
+Kundrathur,Meppur,2.7
+Meppur,Chembarampakkam,14.0
+Saidapet,Mambalam,2.4
+Saidapet,Mandaveli,4.7
+Saidapet,Ramapuram,5.2
+Mandaveli,Abiramapuram,0.7
+Mambalam,Kodampakkam,2.5
+Mambalam,Mylapore,5.6
+Mylapore,Royapettah,2.1
+Royapettah,Triplicane,1.7
+Kodampakkam,Nungampakkam,2.7
+Nungampakkam,Chetpet,2.4
+Chetpet,Arumbakkam,4.7
+Chetpet,Kilpauk,1.7
+Chetpet,Egmore,2.7
+Egmore,Park Town,2.9
+Park Town,Chennai Central,5.0
+Park Town,Chennai Fort,1.9

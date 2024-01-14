@@ -1,0 +1,54 @@
+1.Vandalur
+2.Urappakkam
+3.Adhanur
+4.Perungalathur
+5.Mudichur
+6.Tambaram
+7.Sanatorium
+8.Chitlapakkam
+9.Chrompet
+10.Pallavaram
+11.Nemilicherrry
+12.Anakaputhur
+13.Tirusulam
+14.Meenambakkam
+15.Pazhavanthangal
+16.St Thomas Mount
+17.Adampakkam
+18.Keelkattalai
+19.Madipakkam
+20.Kottivakkam
+21.Thiruvanmiyur
+22.Besant Nagar
+23.Adyar
+24.Guindy
+25.Velachery
+26.Saidapet
+27.Kotturpuram
+28.Mugalivakkam
+29.Ramapuram
+30.KK Nagar
+31.Saligramam
+32.Mangadu
+33.Pammal
+34.Kundrathur
+35.Ayyappanthangal
+36.Nandampakkam
+37.Meppur
+38.Chembarampakkam
+39.Mambalam
+40.Mandaveli
+41.Abiramapuram
+42.Kodampakkam
+43.Mylapore
+44.Royapettah
+45.Triplicane
+46.Nungampakkam
+47.Chetpet
+48.Arumbakkam
+49.Kilpauk
+50.Egmore
+51.Park Town
+52.Chennai Central
+53.Chennai Fort
+54.Porur
